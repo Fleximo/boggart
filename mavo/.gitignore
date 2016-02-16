@@ -1,7 +1,0 @@
-*.pyc
-.project
-.pydevproject
-*.txt
-*src/.ipynb*
-.DS_*
-figures/
